@@ -1,0 +1,19 @@
+test: ../logos/test/images
+train: ../logos/train/images
+val: ../logos/val/images
+
+nc: 12
+names: [
+    correto,
+    baixa_resolucao,
+    cor_alterada,
+    distorcido,
+    fragmentado,
+    inclinado,
+    moldura,
+    outline,
+    proporcao,
+    rotacionado,
+    sombra,
+    tipologia
+]
